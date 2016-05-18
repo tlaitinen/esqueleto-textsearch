@@ -11,7 +11,7 @@ module Database.Esqueleto.TextSearch.Types (
   , Words
   , Lexemes
   , TsVector
-  , RegConfig
+  , RegConfig (..)
   , NormalizationOption (..)
   , Weight (..)
   , Weights (..)
